@@ -33,4 +33,5 @@ Llama · DeepSeek · Ollama · Google Cloud · n8n
 
 [Portfolio](https://harshith-nayaka-l-portfolio.vercel.app) ·
 [LinkedIn](https://www.linkedin.com/in/harshithnayakal) ·
+[harshith28124@gmail.com](mailto:harshith28124@gmail.com) ·
 [harshith29124@gmail.com](mailto:harshith29124@gmail.com)
