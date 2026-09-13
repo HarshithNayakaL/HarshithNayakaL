@@ -12,8 +12,24 @@ validation, and handling the ways models fail.
 
 | Project | What it is |
 |---|---|
+| **[BrandForge](https://github.com/HarshithNayakaL/BrandForge)** | AI brand-to-campaign engine. Turns a brand website and a product photo into on-brand campaign creative, using Playwright, Gemini, GPT Image and n8n. |
 | **[Maestro](https://github.com/HarshithNayakaL/Maestro)** · [live](https://maestro-psi-neon.vercel.app/) | Multi-model orchestration engine. A conductor routes one task across thinker / worker / verifier roles and returns a verified answer with a full, replayable decision-log. |
 | **[Cannon](https://github.com/HarshithNayakaL/cannon-multi-agents)** · [live](https://cannon-multi-agents.vercel.app) | Multi-agent assistant. Each domain is an independent specialist — isolation enforced at the query, not by convention. Typed provider fallback (Groq→Gemini). 91 unit + 13 e2e tests. |
+| **[CUSTOM-GPT](https://github.com/HarshithNayakaL/CUSTOM-GPT)** (Nova) | Model router. Reads query complexity and routes simple asks to cheap models, hard reasoning to stronger ones, to hold down per-chat cost. |
+
+### Claude skills
+
+| Skill | What it does |
+|---|---|
+| **[ui-ux-taste-skill](https://github.com/HarshithNayakaL/ui-ux-taste-skill)** | Discovers a user's UI taste from reference moodboards instead of vague adjectives, then locks in a stack pick and an ASCII wireframe. |
+| **[linkedin-algorithm-source](https://github.com/HarshithNayakaL/linkedin-algorithm-source)** | LinkedIn skill built from LinkedIn Engineering's published ranking mechanism, and explicit about which popular rules are folklore. |
+| **[x-algorithm-source](https://github.com/HarshithNayakaL/x-algorithm-source)** | X strategy and writing skill derived from the open-sourced For You algorithm — real ranking weights, filter stack and credibility model. |
+| **[humanizer-claude-skill](https://github.com/HarshithNayakaL/humanizer-claude-skill)** | Strips AI tells from prose and scores how human it reads. `--check` scores 0–100 for CI, `--fix` rewrites. |
+
+### Also built
+
+| Project | What it is |
+|---|---|
 | **[ReplyDesk](https://github.com/HarshithNayakaL/Whatsapp-Agent-Dashboard)** | WhatsApp lead agent replying in ~8s, with a live dashboard for lead feed, pipeline and response-time KPIs. |
 | **[CraftConnect](https://github.com/HarshithNayakaL/craftconnect)** | Multi-modal assistant letting artisans run a storefront by talking and showing. Semi-finalist, Google Cloud Gen AI Exchange Hackathon 2025 (270,000+ developers). |
 | **[AI Notes](https://github.com/HarshithNayakaL/AI-Notes-App)** | Notes app running DeepSeek R1 locally via Ollama — inference never leaves the machine. |
