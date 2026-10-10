@@ -43,8 +43,9 @@ Integration** — IJRTMR, Nov–Dec 2025, pp. 178–189.
 
 ### Stack
 
-Claude · OpenAI Agents SDK · Gemini · Google Antigravity · Groq · DeepSeek ·
-Ollama · Python · TypeScript · React · Node · FastAPI · Postgres · n8n
+Claude · OpenAI Agents SDK · Gemini · Google Antigravity · Qwen · Grok ·
+Meta Muse · Jev · Groq · DeepSeek · Ollama · Python · TypeScript · React ·
+Node · FastAPI · Postgres · n8n
 
 ### Elsewhere
 
