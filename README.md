@@ -12,7 +12,7 @@ validation, and handling the ways models fail.
 
 | Project | What it is |
 |---|---|
-| **[Octo](https://github.com/HarshithNayakaL/octo)** | Self-hosted AI research workspace. Combines Google Antigravity and OpenAI's Agents API for market intelligence, ICP-based sales research, continuous monitoring, cited reports and CRM integration. |
+| **[Octo](https://github.com/HarshithNayakaL/octo)** | Self-hosted AI research workspace built on OpenAI's Agents API, with Google Antigravity run alongside as a free-tier execution layer. Market intelligence, ICP-based sales research, continuous monitoring, cited reports and CRM integration. |
 | **[Maestro](https://github.com/HarshithNayakaL/Maestro)** · [live](https://maestro-psi-neon.vercel.app/) | Multi-model orchestration engine. A conductor routes one task across thinker / worker / verifier roles and returns a verified answer with a full, replayable decision-log. |
 | **[BrandForge](https://github.com/HarshithNayakaL/BrandForge)** | AI brand-to-campaign engine. Turns a brand website and a product photo into on-brand campaign creative, using Playwright, Gemini, GPT Image and n8n. |
 
