@@ -1,8 +1,7 @@
 ## Harshith Nayaka L
 
 AI Engineer in Bengaluru (Bangalore), India. I build AI agents, RAG
-pipelines and LLM applications. Currently AI Engineer at DemandNXT
-(AI Engineer – Full Stack).
+pipelines and LLM applications. Currently AI Engineer at DemandNXT.
 
 Most of my work lives in the gap between "the model gave an answer" and "the
 system did the right thing reliably." Orchestration, structured outputs,
@@ -53,3 +52,7 @@ Node · FastAPI · Postgres · n8n
 [LinkedIn](https://www.linkedin.com/in/harshithnayakal) ·
 [harshith28124@gmail.com](mailto:harshith28124@gmail.com) ·
 [harshith29124@gmail.com](mailto:harshith29124@gmail.com)
+
+Listed on the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.HarshithNayakaL) ·
+[Glama](https://glama.ai/mcp/servers/HarshithNayakaL/personal-os-mcp) ·
+Claude Code plugins: `/plugin marketplace add HarshithNayakaL/My-Portfolio`
